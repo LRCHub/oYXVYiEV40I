@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Daisy",
+  "base_artist": "Ashnikko",
+  "createdAt": "2026-02-16T07:59:21.414833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daisy",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/01_Daisy_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Princess Daisy",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/02_Princess_Daisy_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daisy, Where Did You Go?",
+      "artist": "Marissa Nadler",
+      "has_synced": false,
+      "path": "select/03_Daisy,_Where_Did_You_Go_Marissa_Nadler.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daisy",
+      "artist": "Christophe feat. Laetitia Casta",
+      "has_synced": true,
+      "path": "select/04_Daisy_Christophe_feat._Laetitia_Casta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daisy",
+      "artist": "Christophe Feat. Lætitia Casta",
+      "has_synced": true,
+      "path": "select/05_Daisy_Christophe_Feat._Lætitia_Casta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daisy Glaze",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/06_Daisy_Glaze_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ramalama Daisy",
+      "artist": "Cartoons",
+      "has_synced": true,
+      "path": "select/07_Ramalama_Daisy_Cartoons.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daisy Chain",
+      "artist": "The Go-Go's",
+      "has_synced": false,
+      "path": "select/08_Daisy_Chain_The_Go-Go's.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RISE! (feat. DAISY WORLD)",
+      "artist": "Tyler, The Creator feat. DAISY WORLD",
+      "has_synced": true,
+      "path": "select/09_RISE!_(feat._DAISY_WORLD)_Tyler,_The_Creator_feat._DAISY_WORLD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daisy",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/10_Daisy_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daisy Chains",
+      "artist": "Audio Bullys",
+      "has_synced": false,
+      "path": "select/11_Daisy_Chains_Audio_Bullys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daisy",
+      "artist": "Blue Hawaii",
+      "has_synced": false,
+      "path": "select/12_Daisy_Blue_Hawaii.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daisy Bell (A Bicycle Made for Two)",
+      "artist": "Blur",
+      "has_synced": false,
+      "path": "select/13_Daisy_Bell_(A_Bicycle_Made_for_Two)_Blur.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Daisy Click Clack",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/14_Daisy_Click_Clack_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fresh As a Daisy (Remastered)",
+      "artist": "Glenn Miller",
+      "has_synced": false,
+      "path": "select/15_Fresh_As_a_Daisy_(Remastered)_Glenn_Miller.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fresh as a Daisy (Remastered)",
+      "artist": "Glenn Miller & His Orchestra",
+      "has_synced": false,
+      "path": "select/16_Fresh_as_a_Daisy_(Remastered)_Glenn_Miller_&_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Daisy",
+      "artist": "Lizzy McAlpine",
+      "has_synced": false,
+      "path": "select/17_Daisy_Lizzy_McAlpine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daisy",
+      "artist": "Ashnikko",
+      "has_synced": false,
+      "path": "select/pl_01_Daisy_Ashnikko.txt"
+    }
+  ]
+}
